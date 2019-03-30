@@ -7,3 +7,5 @@ estos son nuevos cambios
 tercer nuevos cambios
 !!!
 >>>>>>> parent of d49618d... (((
+
+mas ejemplos
